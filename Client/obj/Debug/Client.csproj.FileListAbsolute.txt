@@ -1,0 +1,6 @@
+c:\users\nsakhuja\source\repos\HotelService\Client\bin\Debug\Client.exe.config
+c:\users\nsakhuja\source\repos\HotelService\Client\bin\Debug\Client.exe
+c:\users\nsakhuja\source\repos\HotelService\Client\bin\Debug\Client.pdb
+c:\users\nsakhuja\source\repos\HotelService\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+c:\users\nsakhuja\source\repos\HotelService\Client\obj\Debug\Client.exe
+c:\users\nsakhuja\source\repos\HotelService\Client\obj\Debug\Client.pdb

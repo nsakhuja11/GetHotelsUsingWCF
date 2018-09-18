@@ -1,0 +1,14 @@
+[
+	{
+		"Id":1,
+		"Name":"Hyatt",
+		"Address":"Opp. To Tavisca",
+		"StarRating":4
+	},
+	{
+		"Id":2,
+		"Name":"Novotel",
+		"Address":"Adjecent To Tavisca",
+		"StarRating":4
+	}
+]

@@ -1,0 +1,7 @@
+c:\users\nsakhuja\source\repos\HotelService\HotelService\bin\Debug\HotelService.dll.config
+c:\users\nsakhuja\source\repos\HotelService\HotelService\bin\Debug\HotelService.dll
+c:\users\nsakhuja\source\repos\HotelService\HotelService\bin\Debug\HotelService.pdb
+c:\users\nsakhuja\source\repos\HotelService\HotelService\bin\Debug\Newtonsoft.Json.Net20.dll
+c:\users\nsakhuja\source\repos\HotelService\HotelService\obj\Debug\HotelService.csproj.CoreCompileInputs.cache
+c:\users\nsakhuja\source\repos\HotelService\HotelService\obj\Debug\HotelService.dll
+c:\users\nsakhuja\source\repos\HotelService\HotelService\obj\Debug\HotelService.pdb
